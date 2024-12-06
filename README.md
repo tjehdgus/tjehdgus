@@ -106,7 +106,7 @@
 - **노션 학습 자료**:
 - [📑 SQL 학습 노트](https://ludicrous-vault-53b.notion.site/SQL-152e1024ebc580a2bedaf1e0870c884d)
 - [📑 R 학습 노트](https://ludicrous-vault-53b.notion.site/R-2efcd0c2a45f444abba4363398e88c6f)
-- [📑 Python 학습 노트](https://www.notion.so/your-notion-link)
+- [📑 Python 학습 노트](https://ludicrous-vault-53b.notion.site/Python-c95fa74aef2d4fce86c67d530335f422)
 - [📑 Deep Learning 학습 노트](https://www.notion.so/your-notion-link)
 - [📑 Tableau 학습 노트](https://www.notion.so/your-notion-link)
 
