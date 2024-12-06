@@ -40,7 +40,7 @@
 ## 📂 프로젝트 목록
 
 1. **💧 수자원 공모전 프로젝트**  
-   <a href="https://github.com/username/project1">
+   <a href="https://github.com/tjehdgus/K_water">
      <img src="https://github.com/user-attachments/assets/5c8019cd-9123-4311-9e8e-dfdef34fe7e9" alt="수자원 공모전" width="400">
    </a>
    <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
