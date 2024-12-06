@@ -48,7 +48,7 @@
    - **사용 기술**: R, randomForest, caret, ggplot2, shiny
 
 3. **🚲 세종시 공모전 프로젝트**  
-   <a href="https://github.com/username/project2">
+   <a href="https://github.com/tjehdgus/sejong/tree/main">
      <img src="https://github.com/user-attachments/assets/5551f68f-6f14-4538-9dfc-88156879dc8e" alt="세종시 공모전" width="400">
    </a>
    <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
