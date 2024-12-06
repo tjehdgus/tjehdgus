@@ -1,3 +1,15 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1c78ce&height=240&text=Hello%20My%20World&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+
+    
+
 # 👋 안녕하세요! 저는 데이터 분석가 서동현입니다.
 
 데이터를 기반으로 문제를 정의하고 해결하는 데 열정을 가진 데이터 분석가입니다.
