@@ -72,7 +72,7 @@
    - **사용 기술**: SQL, Python
 
 6. **🏋️‍♂️ 딥러닝 프로젝트**  
-   <a href="https://github.com/username/project5">
+   <a href="https://github.com/tjehdgus/deep_learning/tree/main">
      <img src="https://github.com/user-attachments/assets/83a2aef6-6795-4bb1-9408-355b2f232317" alt="딥러닝 프로젝트" width="400">
    </a>
    <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
