@@ -39,9 +39,8 @@
 2. **🚲 세종시 공모전 프로젝트**  
    <a href="https://github.com/username/project2">
      <img src="https://github.com/user-attachments/assets/5551f68f-6f14-4538-9dfc-88156879dc8e1" alt="세종시 공모전" width="200">
-    
    </a>
-    **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
+    **👉 이미지를 클릭하면 프로젝트로 이동합니다.** <br>
    - **설명**: 세종시의 공공전기 자전거 도입을 위한 거치대 최적입지 선정을 진행하여 본선 진출을 하였습니다.
    - **사용 기술**: Python, geopandas, sklearn, scipy, matplotlib
 
