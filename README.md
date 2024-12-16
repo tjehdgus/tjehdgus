@@ -56,7 +56,7 @@
    - **사용 기술**: Python, geopandas, sklearn, scipy, matplotlib
 
 4. **📊 케글 프로젝트**  
-   <a href="https://github.com/username/project3">
+   <a href="https://github.com/tjehdgus/kaggle/tree/main">
      <img src="https://github.com/user-attachments/assets/5ecea204-59f6-4500-90ea-24e3b4d83e2b" alt="케글 프로젝트" width="400">
    </a>
    <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
