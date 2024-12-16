@@ -115,6 +115,7 @@
 배웠던 내용을 기록하고 정리한 자료는 아래 노션 링크에서 확인할 수 있습니다:
 - **노션 학습 자료**:
 - [📑 SQL 학습 노트](https://ludicrous-vault-53b.notion.site/SQL-152e1024ebc580a2bedaf1e0870c884d)
+- [📑 SQL 튜닝 학습 노트](https://ludicrous-vault-53b.notion.site/SQL-15ee1024ebc58040ad86ceef64b5f090)
 - [📑 R 학습 노트](https://ludicrous-vault-53b.notion.site/R-2efcd0c2a45f444abba4363398e88c6f)
 - [📑 Python 학습 노트](https://ludicrous-vault-53b.notion.site/Python-c95fa74aef2d4fce86c67d530335f422)
 - [📑 Deep Learning 학습 노트](https://ludicrous-vault-53b.notion.site/113e1024ebc58038885edae34d11c3db)
