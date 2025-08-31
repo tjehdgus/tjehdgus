@@ -79,6 +79,13 @@
    - **설명**: 운동 동작 데이터를 활용하여 운동에 도움을 주는 프로그램 개발하였습니다.
    - **사용 기술**: Python, Pandas, PyTorch, Tableau
 
+7. **🏋️‍♂️ 자동차 분류 딥러닝 프로젝트**  
+   <a href="https://github.com/tjehdgus/dacon_car/tree/main">
+     <img src="https://github.com/user-attachments/assets/1de54dfb-b7fb-4027-9b9d-f06606b54245" alt="자동차 분류 딥러닝 프로젝트" width="400">
+   </a>
+   <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
+   - **설명**: 자동차 분류모델을 개발 하여 핵토에서 주관한 대회에서 상위 4.8% 달성.
+   - **사용 기술**: Python, Pandas, PyTorch, Tableau
 
 ---
 ## 📌 기술 스택
