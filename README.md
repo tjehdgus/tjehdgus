@@ -84,9 +84,24 @@
      <img src="https://github.com/user-attachments/assets/1de54dfb-b7fb-4027-9b9d-f06606b54245" alt="자동차 분류 딥러닝 프로젝트" width="400">
    </a>
    <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
-   - **설명**: 자동차 분류모델을 개발 하여 핵토에서 주관한 대회에서 상위 4.8% 달성.
-   - **사용 기술**: Python, Pandas, PyTorch, Tableau
-
+   - **설명**: 자동차 분류모델을 개발 하여 핵토에서 주관한 대회에서 상위 4.8% 달성하였습니다.
+   - **사용 기술**: Python, Pytoch
+  
+8. **🏋️‍♂️ AI 법률 상담 에이전트**  
+   <a href="https://github.com/tjehdgus/lawkeeper/tree/main">
+     <img src="https://github.com/user-attachments/assets/8895a1b9-c95d-4e05-b028-a65c8952ceb6" alt="AI 법률 상담 에이전트" width="400">
+   </a>
+   <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
+   - **설명**: 전문 변호사 수준의 AI 법률 상담 서비스를 제공합니다.
+   - **사용 기술**: Python, OpenAI, ChromaDB, Pytoch
+  
+9. **🏋️‍♂️ 2025 전력사용량 예측 AI 경진대회**  
+   <a href="https://github.com/tjehdgus/dacon_elec/tree/main">
+     <img src="https://github.com/user-attachments/assets/943a4cd4-d6ab-4873-90a7-bcc6df3f1f6e" alt="2025 전력사용량 예측 AI 경진대회" width="400">
+   </a>
+   <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
+   - **설명**: 한국에너지공단에서 개최하는 100개의 건물 전력소비량 예측 모델을 개발하였습니다. 상위 4% 달성하였습니다.
+   - **사용 기술**: Python, Pandas, Sklearn
 ---
 ## 📌 기술 스택
 
@@ -112,8 +127,8 @@
   - 합격일: 2024년 09월 20일  
   ![SQLD Badge](https://img.shields.io/badge/SQLD-Passed-2D9CDB?style=for-the-badge&logo=oracle&logoColor=white)
 
-- **빅데이터 분석기사 필기**  
-  - 합격일: 2023년 10월 13일  
+- **빅데이터 분석기사**  
+  - 합격일: 2025년 07월  
   ![BigData Badge](https://img.shields.io/badge/Big%20Data%20Analysis-Written%20Passed-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 
