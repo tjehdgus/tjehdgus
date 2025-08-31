@@ -150,7 +150,7 @@
 
 - **빅데이터 분석기사**  
   - 합격일: 2025년 07월  
-  ![BigData Badge](https://img.shields.io/badge/Big%20Data%20Analysis-Written%20Passed-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+  ![BigData Badge](https://img.shields.io/badge/Big%20Data%20Analysis-Passed-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
