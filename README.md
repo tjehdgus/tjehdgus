@@ -79,7 +79,7 @@
    - **설명**: 운동 동작 데이터를 활용하여 운동에 도움을 주는 프로그램 개발하였습니다.
    - **사용 기술**: Python, Pandas, PyTorch, Tableau
 
-7. **🏋️‍♂️ 자동차 분류 딥러닝 프로젝트**  
+7. **🚗 자동차 분류 딥러닝 프로젝트**  
    <a href="https://github.com/tjehdgus/dacon_car/tree/main">
      <img src="https://github.com/user-attachments/assets/1de54dfb-b7fb-4027-9b9d-f06606b54245" alt="자동차 분류 딥러닝 프로젝트" width="400">
    </a>
@@ -87,7 +87,7 @@
    - **설명**: 자동차 분류모델을 개발 하여 핵토에서 주관한 대회에서 상위 4.8% 달성하였습니다.
    - **사용 기술**: Python, Pytoch
   
-8. **🏋️‍♂️ AI 법률 상담 에이전트**  
+8. **⚖️ AI 법률 상담 에이전트**  
    <a href="https://github.com/tjehdgus/lawkeeper/tree/main">
      <img src="https://github.com/user-attachments/assets/8895a1b9-c95d-4e05-b028-a65c8952ceb6" alt="AI 법률 상담 에이전트" width="400">
    </a>
@@ -95,7 +95,7 @@
    - **설명**: 전문 변호사 수준의 AI 법률 상담 서비스를 제공합니다.
    - **사용 기술**: Python, OpenAI, ChromaDB, Pytoch
   
-9. **🏋️‍♂️ 2025 전력사용량 예측 AI 경진대회**  
+9. **⚡ 2025 전력사용량 예측 AI 경진대회**  
    <a href="https://github.com/tjehdgus/dacon_elec/tree/main">
      <img src="https://github.com/user-attachments/assets/943a4cd4-d6ab-4873-90a7-bcc6df3f1f6e" alt="2025 전력사용량 예측 AI 경진대회" width="400">
    </a>
