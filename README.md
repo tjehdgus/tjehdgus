@@ -119,6 +119,27 @@
 
 ### **Collaboration & Platforms**
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### **Time Series & ML Frameworks**
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4C2C?style=for-the-badge)  
+![LightGBM](https://img.shields.io/badge/LightGBM-017D5B?style=for-the-badge)  
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge)  
+![Prophet](https://img.shields.io/badge/Prophet-025E8C?style=for-the-badge)
+
+### **NLP & LLM**
+![Transformers](https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)  
+![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-0084FF?style=for-the-badge)  
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7D40FF?style=for-the-badge)
+
+### **MLOps & Cloud**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![RunPod](https://img.shields.io/badge/RunPod-FF4C4C?style=for-the-badge)
+
+### **Deployment & Demo**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ---
 
 ## 📜 자격증
