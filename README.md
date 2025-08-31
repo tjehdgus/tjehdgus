@@ -64,7 +64,7 @@
    - **사용 기술**: Python, NumPy, Statsmodels, Matplotlib
 
 5. **🚦 SQL 프로젝트**  
-   <a href="https://github.com/username/project4">
+   <a href="https://github.com/tjehdgus/traffic/tree/main">
      <img src="https://github.com/user-attachments/assets/81979be9-7d8c-4a47-b74f-796e7dd45e24" alt="SQL 프로젝트" width="400">
    </a>
    <br> 👉 이미지를 클릭하면 프로젝트로 이동합니다. <br>
