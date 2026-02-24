@@ -214,18 +214,6 @@ MediaPipe + TSM 기반 운동 동작 인식 모델 | Tableau 시각화
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjehdgus&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjehdgus&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 📘 Education
 
 | 기간 | 과정 | 내용 |
