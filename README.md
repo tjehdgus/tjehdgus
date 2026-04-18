@@ -17,18 +17,20 @@
 
 LLM, RAG, ML 모델링부터 Docker 배포까지 **기획 ~ 배포 전 과정을 단독 수행**하는 AI 개발자입니다.
 
-- 🏢 **현재**: 주식회사 SHL 혁신추진팀(AI/DX) — AI 솔루션 3건 + 자동화 1건 End-to-End 구축
-- 🏥 **이전**: NIA 국가사업 PM (24억 원 규모, 장관표창 수상) → 데이터 분석가 → AI 개발자
+- 🏢 **최근 경력 (2025.10 ~ 2026.06)**: 주식회사 SHL 혁신추진팀(AI/DX) — AI 솔루션 3건 + 자동화 1건 End-to-End 구축
+- 🏥 **커리어 여정**: NIA 국가사업 PM (24억 원 규모, 장관표창 수상) → 데이터 분석가 → AI 개발자
 - 🎯 **강점**: 비즈니스 문제 → 기술 스펙 변환 / ROI 중심 기술 도입 / 프로덕션 레벨 배포
 
 ---
 
 ## 📊 Career
 
-| 기간 | 회사 | 역할 | 핵심 성과 |
+| 기간 | 소속 | 역할 | 핵심 성과 |
 |:----:|------|------|-----------|
-| **2025.10 ~ 현재** | 주식회사 SHL | AI 개발자 (혁신추진팀) | LLM 세금계산서 자동처리, ML 원가율 예측, RAG 챗봇, 환율 알림 |
+| **2025.10 ~ 2026.06** | 주식회사 SHL | AI 개발자 (혁신추진팀) | LLM 세금계산서 자동처리, ML 원가율 예측, RAG 챗봇, 환율 알림 |
+| **2025.07 ~ 2025.09** | 개인 프로젝트 & 경진대회 집중 | — | Dacon 전력사용량 예측, Hecto AI 차량분류, LawKeeper 법률 챗봇 |
 | **2025.03 ~ 2025.06** | ㈜퍼즐데이터 | 데이터 분석가 (PI팀) | 국립암센터 · 삼성바이오로직스 프로세스 마이닝 |
+| **2024.05 ~ 2024.11** | ITwill 빅데이터 양성과정 | 교육생 | Python / R / SQL / ML·DL / Tableau · 팀 프로젝트 |
 | **2022.05 ~ 2024.02** | 서울대학교치과병원 | PM (NIA 국가사업) | 총 24억 원 2개년 사업 총괄 → **장관표창 수상** |
 
 ---
@@ -61,18 +63,7 @@ LLM, RAG, ML 모델링부터 Docker 배포까지 **기획 ~ 배포 전 과정을
 
 ---
 
-## 📂 오픈소스 프로젝트
-
-### ⚖️ LawKeeper — AI 법률 상담 챗봇
-<a href="https://github.com/tjehdgus/lawkeeper_rag_openAI">
-  <img src="https://github.com/user-attachments/assets/8895a1b9-c95d-4e05-b028-a65c8952ceb6" alt="LawKeeper" width="400">
-</a>
-
-RAG 기반 5개 법률 DB 통합 챗봇 | ChromaDB + OpenAI + Google Cloud Run 배포 | 멀티턴 대화 Query Rewriting 구현
-
-`Python` `OpenAI` `ChromaDB` `Google Cloud Run` `FastAPI`
-
----
+## 🏆 경진대회 프로젝트
 
 ### 💧 K-water 가뭄 예측 — 장려상 수상
 <a href="https://github.com/tjehdgus/K_water_randomforest">
@@ -126,6 +117,19 @@ LightGBM 시계열 매출 예측 | 피처 엔지니어링 중심
 K-Means 클러스터링 + GeoPandas 공간분석 기반 거치대 입지 최적화
 
 `Python` `GeoPandas` `K-Means` `Matplotlib`
+
+---
+
+## 💡 개인 프로젝트
+
+### ⚖️ LawKeeper — AI 법률 상담 챗봇
+<a href="https://github.com/tjehdgus/lawkeeper_rag_openAI">
+  <img src="https://github.com/user-attachments/assets/8895a1b9-c95d-4e05-b028-a65c8952ceb6" alt="LawKeeper" width="400">
+</a>
+
+RAG 기반 5개 법률 DB 통합 챗봇 | ChromaDB + OpenAI + Google Cloud Run 배포 | 멀티턴 대화 Query Rewriting 구현
+
+`Python` `OpenAI` `ChromaDB` `Google Cloud Run` `FastAPI`
 
 ---
 
