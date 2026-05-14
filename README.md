@@ -66,10 +66,8 @@
 
 ##  경진대회 프로젝트
 
-### 🏛️ 공정거래 AI·데이터 활용 공모전 — RAG 시스템 구축
-<a href="https://github.com/tjehdgus/KFTC">
-  <img src="./images/kftc_cover.png" alt="KFTC 공정거래 RAG 시스템" width="400">
-</a>
+### 🏛️ 공정거래 AI·데이터 활용 공모전 — RAG 시스템 구축 (진행중)
+<img src="./images/kftc_cover.png" alt="KFTC 공정거래 RAG 시스템" width="400">
 
 공정거래위원회 의결서 코퍼스 기반 **조사 시뮬레이터 RAG 시스템** | EXAONE 3.5 7.8B LoRA continued fine-tuning + Hybrid Retrieval(BGE-m3-ko + Arctic-embed-v2-ko) + Dual Reranker RRF | 4bit 양자화 + 오프라인 Docker 배포 | **자체 평가 67.76점 / 100점**
 
