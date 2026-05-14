@@ -17,7 +17,7 @@
 
 **LLM 파인튜닝(LoRA), RAG 시스템, ML 모델링부터 Docker 배포까지** 기획 ~ 배포 전 과정을 단독 수행하는 AI 개발자입니다.
 
--  **최근 경력 (2025.10 ~ 2026.06)**: 주식회사 SHL 혁신추진팀(AI/DX) — AI 솔루션 3건 + 자동화 1건 End-to-End 구축
+-  **최근 경력 (2025.10 ~ 2026.03)**: 주식회사 SHL 혁신추진팀(AI/DX) — AI 솔루션 3건 + 자동화 1건 End-to-End 구축
 -  **LLM 전문성**: EXAONE 3.5 7.8B LoRA continued fine-tuning · 도메인 특화 RAG (Hybrid Retrieval + Dual Reranker RRF) · 오프라인/온프레미스 LLM 배포 · 4bit 양자화
 -  **커리어 여정**: NIA 국가사업 PM (24억 원 규모, 장관표창 수상) → 데이터 분석가 → AI 개발자
 -  **강점**: 비즈니스 문제 → 기술 스펙 변환 / ROI 중심 기술 도입 / 프로덕션 레벨 배포
