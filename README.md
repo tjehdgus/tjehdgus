@@ -15,9 +15,10 @@
 
 ## 🧑‍💻 About Me
 
-LLM, RAG, ML 모델링부터 Docker 배포까지 **기획 ~ 배포 전 과정을 단독 수행**하는 AI 개발자입니다.
+**LLM 파인튜닝(LoRA), RAG 시스템, ML 모델링부터 Docker 배포까지** 기획 ~ 배포 전 과정을 단독 수행하는 AI 개발자입니다.
 
 - 🏢 **최근 경력 (2025.10 ~ 2026.06)**: 주식회사 SHL 혁신추진팀(AI/DX) — AI 솔루션 3건 + 자동화 1건 End-to-End 구축
+- 🧠 **LLM 전문성**: EXAONE 3.5 7.8B LoRA continued fine-tuning · 도메인 특화 RAG (Hybrid Retrieval + Dual Reranker RRF) · 오프라인/온프레미스 LLM 배포 · 4bit 양자화
 - 🏥 **커리어 여정**: NIA 국가사업 PM (24억 원 규모, 장관표창 수상) → 데이터 분석가 → AI 개발자
 - 🎯 **강점**: 비즈니스 문제 → 기술 스펙 변환 / ROI 중심 기술 도입 / 프로덕션 레벨 배포
 
@@ -64,6 +65,17 @@ LLM, RAG, ML 모델링부터 Docker 배포까지 **기획 ~ 배포 전 과정을
 ---
 
 ## 🏆 경진대회 프로젝트
+
+### 🏛️ 공정거래 AI·데이터 활용 공모전 — RAG 시스템 구축
+<a href="https://github.com/tjehdgus/KFTC">
+  <img src="./images/kftc_cover.png" alt="KFTC 공정거래 RAG 시스템" width="400">
+</a>
+
+공정거래위원회 의결서 코퍼스 기반 **조사 시뮬레이터 RAG 시스템** | EXAONE 3.5 7.8B LoRA continued fine-tuning + Hybrid Retrieval(BGE-m3-ko + Arctic-embed-v2-ko) + Dual Reranker RRF | 4bit 양자화 + 오프라인 Docker 배포 | **자체 평가 67.76점 / 100점**
+
+`EXAONE` `LoRA` `RAG` `FAISS` `BGE-m3` `Reranker` `4bit-양자화` `Docker`
+
+---
 
 ### 💧 K-water 가뭄 예측 — 장려상 수상
 <a href="https://github.com/tjehdgus/K_water_randomforest">
@@ -159,6 +171,7 @@ MediaPipe + TSM 기반 운동 동작 인식 모델 | Tableau 시각화
 
 | 대회/수상 | 결과 | 연도 |
 |-----------|------|:----:|
+| **공정거래 AI·데이터 활용 공모전 (Track 2)** | 본선 진출 (RAG 시스템, 자체평가 67.76점) | 2026 |
 | **과학기술정보통신부 장관표창** | NIA 국가사업 우수 사업 | 2023 |
 | **K-water 물 빅데이터 공모전** | 장려상 (SPI6 가뭄 예측) | 2024 |
 | **Dacon 전력사용량 예측** | 🥈 상위 2% (18위/934팀) | 2025 |
@@ -185,6 +198,7 @@ MediaPipe + TSM 기반 운동 동작 인식 모델 | Tableau 시각화
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![BGE-M3](https://img.shields.io/badge/BGE--M3-4B0082?style=for-the-badge)
 ![Presidio](https://img.shields.io/badge/Presidio-0078D4?style=for-the-badge)
+![EXAONE](https://img.shields.io/badge/EXAONE_3.5-FF1F1F?style=for-the-badge) ![LoRA](https://img.shields.io/badge/LoRA_FT-9146FF?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge) ![Reranker](https://img.shields.io/badge/Cross--Encoder_Reranker-2E8B57?style=for-the-badge)
 
 ### Backend / DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
