@@ -17,28 +17,35 @@
 
 **비즈니스 문제 정의부터 LLM 파인튜닝 · RAG 시스템 · 전통 ML · Docker 배포 · 운영 모니터링까지 단독으로 수행**하는 AI 개발자입니다. 클라우드 API와 로컬 LLM, 부스팅 앙상블과 컴퓨터 비전까지 — 도메인과 기술 스택을 가리지 않고 ROI로 연결합니다.
 
--  **현재 (2026.04 ~ )**: 공정거래 AI 공모전(KFTC Track 2) 진행중
-
+-  **현재 (2026.04 ~ )**: 공정거래 AI 공모전(KFTC Track 2) 진행 중
 -  **최근 경력 (2025.10 ~ 2026.03)**: 주식회사 SHL 혁신추진팀(AI/DX) — LLM·ML·RAG·자동화 4건을 기획~배포 단독 수행
-
--  **LLM / RAG 전문성**
-  - **파인튜닝**: EXAONE 3.5 7.8B LoRA continued FT (attention + MLP 7-module 확장, KFTC 공정거래 RAG)
-  - **RAG 4개 도메인 구축**: 법률(LawKeeper) · 의결서(KFTC) · 사내 홈페이지(SHL) · 아동행동평가(CBCL 맘이음)
-  - **검색 엔진**: Hybrid Retrieval (BGE-m3-ko + Arctic-embed-v2-ko + BM25) + Dual Reranker RRF
-  - **로컬 LLM**: EXAONE 온프레미스 · Ollama Qwen 텍스트 추출 · 4bit nf4 양자화 + 오프라인 Docker
-  - **가드레일/안전성**: 3중 검증(입력 분류 + 출력 후처리 + 위기 감지), Presidio PII 비식별화, 진단·처방 누출률 0%
-
--  **전통 ML / CV**
-  - XGBoost + LightGBM + CatBoost 12-Fold Stacking (Dacon 전력예측 **상위 2%**)
-  - ConvNeXt-base + TTA + Curriculum Learning + EMA/SWA (Hecto 차량분류 **상위 5%**)
-  - RandomForest + 파생변수 설계 (K-water 가뭄예측 정확도 **40% → 96.1%**, 장려상)
-  - LightGBM/ARIMA/SARIMA 시계열 (Kaggle Store Sales 상위 9%) · K-Means/MCLP/OPTICS 공간 클러스터링
-
--  **배포 / 운영**: FastAPI · Docker · Azure Container Apps · Google Cloud Run · Cosmos DB · BigQuery 로깅 · Redis 캐시 · SSE 스트리밍 · 자동 평가 스크립트
-
 -  **커리어 여정**: NIA 국가사업 PM (24억 원 규모, **장관표창 수상**) → 데이터 분석가(프로세스 마이닝) → AI 개발자
-
 -  **강점**: 비즈니스 문제 → 기술 스펙 변환 · ROI 중심 기술 도입 · 프로덕션 레벨 배포 · 평가/모니터링 자동화
+
+###  LLM / RAG 전문성
+
+- **파인튜닝**: EXAONE 3.5 7.8B LoRA continued FT (attention + MLP 7-module 확장, KFTC 공정거래 RAG)
+- **RAG 4개 도메인 구축**: 법률(LawKeeper) · 의결서(KFTC) · 사내 홈페이지(SHL) · 아동행동평가(CBCL 맘이음)
+- **검색 엔진**: Hybrid Retrieval (BGE-m3-ko + Arctic-embed-v2-ko + BM25) + Dual Reranker RRF
+- **로컬 LLM**: EXAONE 온프레미스 · Ollama Qwen 텍스트 추출 · 4bit nf4 양자화 + 오프라인 Docker
+- **가드레일 / 안전성**: 3중 검증(입력 분류 + 출력 후처리 + 위기 감지) · Presidio PII 비식별화 · 진단·처방 누출률 0%
+
+###  전통 ML / CV
+
+- XGBoost + LightGBM + CatBoost **12-Fold Stacking** (Dacon 전력예측 **상위 2%**)
+- **ConvNeXt-base** + TTA + Curriculum Learning + EMA/SWA (Hecto 차량분류 **상위 5%**)
+- **RandomForest** + 파생변수 설계 (K-water 가뭄예측 정확도 **40% → 96.1%**, 장려상)
+- LightGBM/ARIMA/SARIMA 시계열 (Kaggle Store Sales 상위 9%) · K-Means/MCLP/OPTICS 공간 클러스터링
+
+### 배포 / 운영
+
+FastAPI · Docker · Azure Container Apps · Google Cloud Run · Cosmos DB · BigQuery 로깅 · Redis 캐시 · SSE 스트리밍 · 자동 평가 스크립트
+
+### 커리어 여정
+NIA 국가사업 PM (24억 원 규모, **장관표창 수상**) → 데이터 분석가(프로세스 마이닝) → AI 개발자
+
+### 강점 
+비즈니스 문제 → 기술 스펙 변환 · ROI 중심 기술 도입 · 프로덕션 레벨 배포 · 평가/모니터링 자동화
 
 ---
 
