@@ -35,7 +35,8 @@
 - XGBoost + LightGBM + CatBoost **12-Fold Stacking** (Dacon 전력예측 **상위 2%**)
 - **ConvNeXt-base** + TTA + Curriculum Learning + EMA/SWA (Hecto 차량분류 **상위 5%**)
 - **RandomForest** + 파생변수 설계 (K-water 가뭄예측 정확도 **40% → 96.1%**, 장려상)
-- LightGBM/ARIMA/SARIMA 시계열 (Kaggle Store Sales 상위 9%) · K-Means/MCLP/OPTICS 공간 클러스터링
+- LightGBM/ARIMA/SARIMA 시계열 (Kaggle Store Sales 상위 9%)
+- K-Means/MCLP/OPTICS 공간 클러스터링(세종특별자치시 데이터분석 공모전 본선진출)
 
 ### 배포 / 운영
 
